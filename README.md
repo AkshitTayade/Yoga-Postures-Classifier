@@ -1,7 +1,7 @@
 # Yoga Postures Classifier
 using MediaPipe &amp; Machine Learning
 
-<img src='https://github.com/google/mediapipe/blob/master/docs/images/mediapipe_small.png' alt='' width=200 height=200>
+<img src='https://github.com/google/mediapipe/blob/master/docs/images/mediapipe_small.png' alt='' height=100>
 
 --------------------------------------------------------------------------------
 
