@@ -17,6 +17,6 @@ ML solutions for live and streaming media.
 ***Ready-to-use solutions***: *Cutting-edge ML solutions demonstrating full power of the framework*            | ***Free and open source***: *Framework and solutions both under Apache 2.0, fully extensible and customizable*
 
 
-## ML solutions in MediaPipe
-
-Pose  [![pose](https://github.com/google/mediapipe/blob/master/docs/images/mobile/pose_tracking_android_gpu_small.gif)](https://google.github.io/mediapipe/solutions/pose) 
+## ML solutions in MediaPipe used in this project
+> Posture Detection
+[![pose](https://github.com/google/mediapipe/blob/master/docs/images/mobile/pose_tracking_android_gpu_small.gif)](https://google.github.io/mediapipe/solutions/pose) 
