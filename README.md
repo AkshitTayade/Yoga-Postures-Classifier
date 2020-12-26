@@ -32,3 +32,5 @@ Posture Detection
 
 
 ## Project Pipeline
+
+### 1. Dataset Collection
