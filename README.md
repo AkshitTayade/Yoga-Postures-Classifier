@@ -19,4 +19,4 @@ ML solutions for live and streaming media.
 
 ## ML solutions in MediaPipe
 
-[![pose](https://github.com/google/mediapipe/blob/master/docs/images/mobile/pose_tracking_android_gpu_small.gif)](https://google.github.io/mediapipe/solutions/pose)
+| [![pose](https://github.com/google/mediapipe/blob/master/docs/images/mobile/pose_tracking_android_gpu_small.gif)](https://google.github.io/mediapipe/solutions/pose) |
