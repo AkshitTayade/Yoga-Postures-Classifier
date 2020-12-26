@@ -25,7 +25,10 @@ solutions. Please see
 [MediaPipe in Python](https://google.github.io/mediapipe/getting_started/python)
 for more info.
 
-## ML solution in MediaPipe used in this project
+## MediaPipe solution used in this project
 Posture Detection 
 <br>
 [![pose](https://github.com/google/mediapipe/blob/master/docs/images/mobile/pose_tracking_android_gpu_small.gif)](https://google.github.io/mediapipe/solutions/pose)
+
+
+## Project Pipeline
