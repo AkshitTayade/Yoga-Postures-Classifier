@@ -35,3 +35,11 @@ Posture Detection
 
 ### 1. Dataset Collection
  You can collect your own data or use the dataset available [here](https://www.amarchenkova.com/2018/12/04/data-set-convolutional-neural-network-yoga-pose/) 
+
+### 2. Dataset Preparation
+ Collect all your images into two folders - Train & Test.
+ 
+ Then iterate over all images and convert each image to its equivalent csv input as shown in this [code]()
+ 
+ ### 3. Model Making
+ After trying lot of ML models, SVM gave the highest accuracy (96%) on Test folder. Model was made using Hyper parameter tunning using GridSearch. [code]()
