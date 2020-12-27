@@ -34,4 +34,4 @@ Posture Detection
 ## Project Pipeline
 
 ### 1. Dataset Collection
-     You can collect your own data or use the dataset available [here](https://www.amarchenkova.com/2018/12/04/data-set-convolutional-neural-network-yoga-pose/) 
+ You can collect your own data or use the dataset available [here](https://www.amarchenkova.com/2018/12/04/data-set-convolutional-neural-network-yoga-pose/) 
