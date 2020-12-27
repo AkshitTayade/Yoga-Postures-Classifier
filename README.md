@@ -39,7 +39,21 @@ Posture Detection
 ### 2. Dataset Preparation
  Collect all your images into two folders - Train & Test.
  
- Then iterate over all images and convert each image to its equivalent csv input as shown in this [code]()
+ Then iterate over all images and convert each image to its equivalent csv input as shown in this [code](https://github.com/AkshitTayade/Yoga-Postures-Classifier/blob/main/1_DataPreparation.ipynb)
  
  ### 3. Model Making
- After trying lot of ML models, SVM gave the highest accuracy (96%) on Test folder. Model was made using Hyper parameter tunning using GridSearch. [code]()
+ After trying lot of ML models, SVM gave the highest accuracy (96%) on Test folder. Model was made using Hyper parameter tunning using GridSearch. [code](https://github.com/AkshitTayade/Yoga-Postures-Classifier/blob/main/2_ModelMaking.ipynb)
+ 
+ ### 4. Testing
+ 
+ According to the Test folder, all the images were correctly classified. [code](https://github.com/AkshitTayade/Yoga-Postures-Classifier/blob/main/3_Testing.ipynb)
+ 
+ 
+ > This project was performed using Google Colab.
+ 
+ ## Advantange of my procedure over Deep learning Models
+ * Deep learning models take very long time to train
+ * Computional needs are very less
+ * My model trains in less than 2 seconds
+ * Training accuracy was lower than Testing accuracy, which indicates the model has learned perfectly and haven't overfitted.
+ 
