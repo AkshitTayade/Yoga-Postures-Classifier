@@ -50,6 +50,7 @@ Posture Detection
  
  <p align="center">
   <img width="460" height="300" src="https://github.com/AkshitTayade/Yoga-Postures-Classifier/blob/main/Images/Screenshot%202020-12-27%20at%206.00.18%20PM.png">
+  <img width="460" height="300" src="https://github.com/AkshitTayade/Yoga-Postures-Classifier/blob/main/Images/Screenshot%202020-12-27%20at%206.00.23%20PM.png">
 </p>
  
  > This project was performed using Google Colab.
